@@ -1,6 +1,8 @@
-python-telegram-bot>=21.0
-langchain>=0.3.0
-langgraph>=0.2.0
-langchain-google-genai>=2.0.0
-python-dotenv>=1.0.0
-httpx>=0.28.1
+langchain
+langchain-google-genai
+langchain-community
+langgraph
+supabase
+python-telegram-bot
+python-telegram-bot[webhooks]
+python-dotenv
